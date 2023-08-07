@@ -1,0 +1,16 @@
+.deleted_item{
+    display:none;
+}
+.show{
+    width: 150px;
+    height: 190px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.show>span{
+display: block;
+}
